@@ -92,7 +92,7 @@ if __name__ == "__main__":
     # predict_from_url_and_caption(test_image_url, test_caption)
 
     # 2) 로컬 이미지 테스트 (경로와 캡션 적절히 변경)
-    test_image_path = './sample_data/images/150.png'
+    test_image_path = './sample_data/images/121.png'
     test_caption = "A descriptive caption about the image content."
 
     predict_from_local_and_caption(test_image_path, test_caption)
